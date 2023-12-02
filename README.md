@@ -4,4 +4,4 @@
 - (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - backend web dev
 
 ## Article
-- [데이터 파이프라인 kafka streams 적용하기](https://zum.com/https://albbloomer.github.io/kafkastreams20231202/) 
+- [데이터 파이프라인 kafka streams 적용하기](https://albbloomer.github.io/kafkastreams20231202/) 
