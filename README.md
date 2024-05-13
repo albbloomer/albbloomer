@@ -9,4 +9,4 @@
 - (14.03 - 20.08) [MYONGJI University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - computer engineering
 
 ## Article
-- [데이터 파이프라인 **kafka streams** 적용하기](https://albbloomer.github.io/kafkastreams20231202/) 
+- [실시간 시세 : 데이터 파이프라인 **kafka streams** 적용하기](https://albbloomer.github.io/kafkastreams20231202/) 
