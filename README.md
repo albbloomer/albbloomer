@@ -1,6 +1,5 @@
 ## Personal Information
 - name : min yul
-- [resume](https://freckle-brian-319.notion.site/dc3a416b5b0a46619c61771f818d9f82)
 
 ## Education & Career 
 - **(24.05&nbsp;-&nbsp;현재&nbsp;) &nbsp;[여기어때 컴퍼니](https://gccompany.co.kr/) - backend web dev**
