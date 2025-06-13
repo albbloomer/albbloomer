@@ -2,6 +2,7 @@
 - name : min yul
 
 ## Education & Career 
+- (25.06 -  ing ) [넷마블 컴퍼니](https://www.netmarble.net/) - backend web dev
 - (24.05 - 24.11) [여기어때 컴퍼니](https://gccompany.co.kr/) - backend web dev
 - (20.12 - 24.04) [ZUMinternet](https://zum.com/) - backend web dev
 - (20.07 - 20.09) [Megazone Pentacle](https://www.pentacle.co.kr/#MAIN) - backend web dev intern
