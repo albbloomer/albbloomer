@@ -1,2 +1,1 @@
-## Personal Information
-- name : min yul
+쉬는중
